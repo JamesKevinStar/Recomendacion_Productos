@@ -42,5 +42,8 @@ Este proyecto utiliza datos de una tienda de productos comestibles para realizar
 ![Power BI_2](ImgReadMe/PBI2.png)
 
 ## Resultados
-- Se logró obtener la información de la mayoría de los PDFs sin problemas.
-- También se pudo realizar una Dashboard decente que muestre los gastos de la persona/empresa que se realizaron en el año 2018.
+- Se pudo realizar un proyecto completo realista en el ámbito de un Analista de Datos.
+- Se refrescó algunos conocimientos y aprendió otros, incluso pude aprender la metodología "Market Basket Analysis".
+
+## Conclusiones
+- El proyecto me da una idea muy realista de lo que posíblemente se realizará en este rol, aunque estoy seguro que no es todo al 100%, me puedo hacer una gran idea y estar más preparado.
